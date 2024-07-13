@@ -119,5 +119,3 @@ The user input analyzed in this space and by using a similarity metric (e.g cosi
 
 ---
 
-## CI/CD Flow
-![alt text](https://github.com/Pankajkashyap1/Smart_HelpDesk_IIT-Bhilai/blob/master/imgs/TravisFlow.png)
