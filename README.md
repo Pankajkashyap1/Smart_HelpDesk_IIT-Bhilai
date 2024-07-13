@@ -37,8 +37,9 @@ The aim is to create a state-of-the-art help desk system that leverages AI and f
 
 #### Assistant Features
 *   **Asynchronous command execution & speech recognition and interpretation**
-*   Supports ** user input mode (speech)**, user speek in the mic.
-*   Answers in **general questions** (via call Wolfram API), e.g ('Jarvis tell me the highest building') 
+*   Supports **user input mode (speech)**, user speek in the mic.
+*   Answers in **general questions** (via call Wolfram API), e.g ('Jarvis tell me the highest building')
+*   By using **BERT model** Jarvis gives the answer of all the queries related to IIT Bhilai
 *   **Change input mode on run time**, triggered by a phrase e.g 'Jarvis change settings')
 *   Easy **voice-command customization**
 *   **Log preview** in console
@@ -48,8 +49,6 @@ The aim is to create a state-of-the-art help desk system that leverages AI and f
 ## Getting Started
 ### Create KEYs for third party APIs
 Jarvis assistant uses third party APIs for speech recognition,web information search, weather forecasting etc.
-
-By using BERT model Jarvis gives the answer of all the queries related to IIT Bhilai
 All the following APIs have free no-commercial API calls. Subscribe to the following APIs in order to take FREE access KEYs.
 *   [OPENAI](https://platform.openai.com/account/api-keys): API for openAI services.
 *   [OpenWeatherMap](https://openweathermap.org/appid): API for weather forecast.
@@ -62,7 +61,9 @@ git clone https://github.com/Pankajkashyap1/Smart_HelpDesk_IIT-Bhilai.git --bran
 ```
 
 **Run the requirements.txt and install all the tools**:
-
+```bash
+python -m pip install requirements.txt
+```
 *Install MongoDB*
 ```bash
 https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-ubuntu/#std-label-install-mdb-community-ubuntu
