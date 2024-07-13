@@ -28,7 +28,7 @@ The aim is to create a state-of-the-art help desk system that leverages AI and f
 #### Assistant Skills 
 *   **Tell me about IIT Bhilai**,(e.g 'how many courses are offered by IIT Bhilai')
 *   **Tell me about events**,(e.g 'events, events list, create events')
-*   **Recognise me **,(e.g 'jarvis detect my face')
+*   **Recognise me**,(e.g 'jarvis detect my face')
 *   **Opens a web page** (e.g 'Jarvis open wikipedia, YouTube')
 *   **Increase/decrease** the speakers master volume (also can set max/mute speakers volume) (e.g 'Jarvis volume up!')
 *   **Tells about something**, by searching on the internet (e.g 'Jarvis tells me about oranges')
