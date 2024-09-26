@@ -118,5 +118,11 @@ In the following example he have a dimensional space with three skills.
 The user input analyzed in this space and by using a similarity metric (e.g cosine) we find the most similar skill.
 ![alt text](https://github.com/Pankajkashyap1/Smart_HelpDesk_IIT-Bhilai/blob/master/imgs/skill_space_desicion.png)
 
+**Example** Face Recognization
+Just say: jarvis recognize my face/ recognize me
+If you’re already recognisable by jarvis than he wises you with you’re name, otherwise he ask you’re name and save with you’re captured photo.\
+
+Output: ![alt text](https://github.com/Pankajkashyap1/Smart_HelpDesk_IIT-Bhilai/blob/master/imgs/jarvis_logo.png)
+
 ---
 
