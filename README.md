@@ -124,7 +124,9 @@ The user input analyzed in this space and by using a similarity metric (e.g cosi
 
 *Output:[![Watch the video](https://github.com/Pankajkashyap1/Smart_HelpDesk_IIT-Bhilai/blob/master/imgs/1727387166443229.mp4)
 [![Watch the video](https://github.com/Pankajkashyap1/Smart_HelpDesk_IIT-Bhilai/blob/master/imgs/screen.mov)
+.. raw:: html
 
-
+    <video src="[URL](https://github.com/Pankajkashyap1/Smart_HelpDesk_IIT-Bhilai/blob/master/imgs/screen.mov)"></video>
+<video src="[URL](https://github.com/Pankajkashyap1/Smart_HelpDesk_IIT-Bhilai/blob/master/imgs/screen.mov)"></video>
 ---
 
