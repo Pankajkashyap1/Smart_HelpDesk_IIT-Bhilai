@@ -122,10 +122,9 @@ The user input analyzed in this space and by using a similarity metric (e.g cosi
 *Just say: jarvis recognize my face/ recognize me
 *If you’re already recognisable by jarvis than he wises you with you’re name, otherwise he ask you’re name and save with you’re captured photo.
 
-*Output:[![Watch the video](https://github.com/Pankajkashyap1/Smart_HelpDesk_IIT-Bhilai/blob/master/imgs/1727387166443229.mp4)
-[![Watch the video](https://github.com/Pankajkashyap1/Smart_HelpDesk_IIT-Bhilai/blob/master/imgs/screen.mov)
-.. raw:: html
+*Output: ![watch the video](https://github.com/Pankajkashyap1/Smart_HelpDesk_IIT-Bhilai/blob/master/imgs/screen.mp4)
 
-    <video src="(https://github.com/Pankajkashyap1/Smart_HelpDesk_IIT-Bhilai/blob/master/imgs/screen.mov)"></video>
+  [![Watch the video](https://github.com/Pankajkashyap1/Smart_HelpDesk_IIT-Bhilai/blob/master/imgs/1727387166443229.mp4)
+
 ---
 
