@@ -102,7 +102,7 @@ Create key: https://openweathermap.org/appid
 """
 WEATHER_API = {
     'unit': 'celsius',
-    'key': 'd575cb186eaed088ef655492601aada1' ##################################
+    'key': '' ##################################
 }
 
 
@@ -112,7 +112,7 @@ Create key: https://developer.wolframalpha.com/portal/myapps/
 
 """
 WOLFRAMALPHA_API = {
-    'key': 'PJG7X2-5JYXH83RA5' ################################################
+    'key': '' ################################################
 }
 
 
@@ -122,7 +122,7 @@ Create key: https://ipstack.com/signup/free
 
 """
 IPSTACK_API = {
-    'key': '517286654c9f88706ea9bb1d76e2b47c' ###################################################
+    'key': '' ###################################################
 }
 
 
@@ -131,5 +131,5 @@ OPENAI API settings
 Create key:https://platform.openai.com/account/api-keys
 """
 OPENAI_API = {
-	'key': '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' ######################
+	'key': '' ######################
 }
